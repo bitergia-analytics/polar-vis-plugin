@@ -1,6 +1,6 @@
 {
   "name": "polar-vis-plugin",
-  "version": "0.39.0",
+  "version": "0.40.0-rc.1",
   "description": "Visualize polar charts",
   "authors": [
     "David Moreno Lumbreras <dmorenolumb@gmail.com>",
